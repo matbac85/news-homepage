@@ -20,6 +20,7 @@ This news website homepage was developed as a solution to the Frontend Mentor ch
 
 - HTML
 - CSS
+- JS
 
 ## Links
 
