@@ -24,5 +24,5 @@ This news website homepage was developed as a solution to the Frontend Mentor ch
 
 ## Links
 
-- Solution URL: [News Homepage Solution](#)
-- Frontend Mentor Profile: [Your Frontend Mentor Profile](#)
+- Solution URL: [News Homepage Solution](https://matbac85.github.io/news-homepage/)
+- Frontend Mentor Profile: [Your Frontend Mentor Profile](https://www.frontendmentor.io/profile/matbac85)
